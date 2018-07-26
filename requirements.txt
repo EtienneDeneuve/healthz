@@ -1,0 +1,7 @@
+html==1.16
+json2html==1.2.1
+pathlib==1.0.1
+psutil==5.2.2
+pyping==0.0.5
+PyYAML==3.12
+web.py==0.39

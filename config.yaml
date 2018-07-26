@@ -1,0 +1,9 @@
+ping:
+  - 8.8.8.8
+  - 8.8.4.4
+exclude: False
+disk_space: False
+file_exclude_path: './exclude'
+services:
+  - 'nginx'
+  - 'python'
