@@ -12,4 +12,5 @@ First modify the config.yaml to remove checks you don't need, and configure with
 # you need to launch it as root as pyping need that
 python healtz.py <listening port, not mandatory, if you want 8080>
 ```
-
+## Exclude file
+You can add a file named exclude in the root folder of the script to exclude temporary the server.
