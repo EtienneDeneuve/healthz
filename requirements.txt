@@ -4,4 +4,4 @@ pathlib==1.0.1
 psutil==5.2.2
 pyping==0.0.5
 PyYAML==3.12
-web.py==0.39
+web.py==0.50
